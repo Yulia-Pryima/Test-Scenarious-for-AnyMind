@@ -66,7 +66,7 @@ f.  User should be able to remove the card from the dashboard.
 
 ### Steps:
 - For the Graph card, check the data trend of the selected metrics from the saved 
-report: 
+report:   
 	a. Click line graph, click column graph option.   
     b. Set to view 1 and 2 metrics at a time in the graph card.  
     c. Click View Report button.  
@@ -75,7 +75,7 @@ report:
     f. Click resize button.  
     g. Click remove button.  
 ### Expected Result: 
-- Data should display accordingly:
+- Data should display accordingly:  
 	a. Output of the graph should be changed accordingly.  
 	b. User should be able to view at least 1 and at most 2 metrics at a time in the graph card   	
     c. User should be redirected to saved report page containing all of the configurations for the corresponding report accordingly.   
