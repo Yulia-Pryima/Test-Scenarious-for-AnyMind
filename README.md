@@ -47,22 +47,22 @@
 
 ### Steps:
 a. For the Summary card, check the total figures of all of the selected metrics from the saved report. 
-Sample formula: 
-CTR = Clicks / Impressions * 100 
-Publisher CPC = Revenue / Clicks 
-Publisher CPM = Revenue/ Impressions * 1,000
-b. Click on the View Report button
-c. Click on the refresh button
-d. Click and drag the move button
-e. Click resize button
-f. Click remove button
-### Expected Result: 
-a. Total figures should display accordingly.
-b. User should be directed to the saved report page containing all of the saved configurations for that saved report. Configurations should display accordingly.
-c. Card should be refreshed.
-d. User should  be able to reposition the card within the dashboard. 
-e. User should be able to resize the card spanning the whole width of the screen or half of it. 
-f.  User should be able to remove the card from the dashboard. 
+Sample formula:   
+CTR = Clicks / Impressions * 100   
+Publisher CPC = Revenue / Clicks   
+Publisher CPM = Revenue/ Impressions * 1,000  
+b. Click on the View Report button  
+c. Click on the refresh button  
+d. Click and drag the move button  
+e. Click resize button  
+f. Click remove button  
+### Expected Result:   
+a. Total figures should display accordingly.  
+b. User should be directed to the saved report page containing all of the saved configurations for that saved report. Configurations should display accordingly.  
+c. Card should be refreshed.  
+d. User should  be able to reposition the card within the dashboard.    
+e. User should be able to resize the card spanning the whole width of the screen or half of it.   
+f.  User should be able to remove the card from the dashboard.   
 
 ### Steps:
 - For the Graph card, check the data trend of the selected metrics from the saved 
