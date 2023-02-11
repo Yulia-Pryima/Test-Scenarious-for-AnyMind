@@ -5,7 +5,7 @@
 ### Expected Result:
 - Corresponding Data should display in all cards.
 
-### Steps: 
+### #2 Steps: 
 - From Date Range dropdown filter select any date range. 
 - Set filter to: 
     - Today, 
@@ -19,12 +19,12 @@
 ### Expected Result:
 - Corresponding Data should display in all cards. 
 
-### Steps: 
+### #3 Steps: 
 - Click Refresh Data button.
 ### Expected Result: 
 - Updated Data should display in all cards.
 
-### Steps: 
+### #4 Steps: 
 - Click Add Card button. 
 - Create  Summary card type. 
 - Create Chart card type.
@@ -32,7 +32,7 @@
 - User will be able to create a corresponding new card based on a saved report for the dashboard. 
 - New card should display accordingly.
 
-### Steps:
+### #5 Steps:
 - Verify Report metrics. 
 ### Expected Result: 
 - Report metrics should include and display accordingly:
@@ -45,7 +45,7 @@
     - Publisher CPM 
     - Publisher Revenue
 
-### Steps:
+### #6 Steps:
 a. For the Summary card, check the total figures of all of the selected metrics from the saved report. 
 Sample formula:   
 CTR = Clicks / Impressions * 100   
@@ -64,7 +64,7 @@ d. User should  be able to reposition the card within the dashboard.
 e. User should be able to resize the card spanning the whole width of the screen or half of it.   
 f.  User should be able to remove the card from the dashboard.   
 
-### Steps:
+### #7 Steps:
 - For the Graph card, check the data trend of the selected metrics from the saved 
 report:   
 	a. Click line graph, click column graph option.   
@@ -74,7 +74,7 @@ report:
     e. Click and drag move button.  
     f. Click resize button.  
     g. Click remove button.  
-### Expected Result: 
+### #8 Expected Result: 
 - Data should display accordingly:  
 	a. Output of the graph should be changed accordingly.  
 	b. User should be able to view at least 1 and at most 2 metrics at a time in the graph card   	
